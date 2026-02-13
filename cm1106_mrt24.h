@@ -1,5 +1,6 @@
 // put this file in your esphome folder
 // protocol implemented as described in https://en.gassensor.com.cn/Product_files/Specifications/CM1106-C%20Single%20Beam%20NDIR%20CO2%20Sensor%20Module%20Specification.pdf
+// File created by ¨Skix_Aces" at Tweakers.net forum: https://gathering.tweakers.net/forum/list_message/78512692#78512692
 
 #include "esphome.h"
 
